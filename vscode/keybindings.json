@@ -28,12 +28,11 @@
 		"when": "terminalFocus"
 	},
 	{
-		"key": "ctrl+k ctrl+j",
-		"command": "-editor.unfoldAll",
-		"when": "editorTextFocus && foldingEnabled"
+		"key": "ctrl+j",
+		"command": "-workbench.action.togglePanel"
 	},
 	{
-		"key": "ctrl+k ctrl+j",
+		"key": "ctrl+j",
 		"command": "workbench.action.terminal.new",
 		"when": "terminalProcessSupported || terminalWebExtensionContributedProfile"
 	},
