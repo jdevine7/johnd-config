@@ -1,0 +1,35 @@
+{
+	"editor.formatOnSave": false,
+	// "editor.formatOnSave": true,
+	"workbench.editor.pinnedTabSizing": "compact",
+	"workbench.editor.titleScrollbarSizing": "large",
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.minimap.enabled": false,
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"[html]": {
+	  "editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescript]": {
+	  "editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[json]": {
+	  "editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"explorer.confirmDelete": false,
+	"[javascript]": {
+	  "editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[scss]": {
+	  "editor.defaultFormatter": "vscode.css-language-features"
+	},
+	"html.format.enable": false,
+	"editor.insertSpaces": false,
+	"javascript.format.insertSpaceAfterSemicolonInForStatements": false,
+	"typescript.format.insertSpaceAfterSemicolonInForStatements": false,
+	"editor.defaultFormatter": "hashicorp.terraform",
+	"git.openRepositoryInParentFolders": "never",
+	"prettier.eslintIntegration": true,
+	"dotnet.unitTests.runSettingsPath": ".runsettings",
+	"nxConsole.showNodeVersionOnStartup": false,
+  }
